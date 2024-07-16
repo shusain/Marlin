@@ -139,6 +139,7 @@ CMakeLists.txt
 src/CMakeLists.txt
 CMakeListsPrivate.txt
 build/
+buildroot
 
 # CLion
 cmake-build-*
